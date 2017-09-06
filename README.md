@@ -3,4 +3,4 @@
 
 ![](https://github.com/swustmuzi/SoftKeyboardTopTool/blob/master/sample.gif)
 
-博客：http://blog.csdn.net/error/404.html?from=http%3a%2f%2fblog.csdn.net%2fqqwuy_muzi%2farticle%2fdetails%2f77453895
+博客：http://blog.csdn.net/qqwuy_muzi/article/details/77453895
